@@ -304,7 +304,7 @@
           "settings": {
             "headline": "Raw, small-batch honey with a rich, golden finish—straight from the hive.",
             "button_label": "Shop Honey",
-            "button_url": "\/collections\/all",
+            "button_url": "shopify:\/\/collections\/honey",
             "invert_colors": false
           }
         },
@@ -313,7 +313,7 @@
           "settings": {
             "headline": "Clean, natural beeswax goods made to glow, protect, and last.",
             "button_label": "Shop Beeswax",
-            "button_url": "\/collections\/all",
+            "button_url": "shopify:\/\/collections\/beeswax",
             "invert_colors": false
           }
         },
@@ -322,7 +322,7 @@
           "settings": {
             "headline": "Everyday essentials with a laid-back fit and a built-to-wear feel.",
             "button_label": "Shop Apparel",
-            "button_url": "\/collections\/all",
+            "button_url": "shopify:\/\/collections\/apparel",
             "invert_colors": false
           }
         }
@@ -382,6 +382,7 @@
         "testimonial_q6z4Dt",
         "testimonial_bc37z7"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "title": "As seen on #ogio"

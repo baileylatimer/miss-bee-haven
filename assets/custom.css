@@ -83,6 +83,14 @@ body {
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'PP Woodland';
+  src: url('./PPWoodland-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 /* ============================================
    2. CUSTOM FONT PROPERTIES
@@ -90,6 +98,7 @@ body {
 
 :root {
   /* Primary Font Definitions */
+  --font-h1: 'PP Woodland', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   --font-header: 'Neue Montreal', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   --font-body: 'Neue Montreal', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   --font-button: 'Neue Montreal', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
@@ -144,6 +153,12 @@ h1, h2, h3, h4, h5, h6,
   font-feature-settings: 'liga' 1, 'kern' 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* H1 Specific Font Override */
+h1, .h1 {
+  font-family: var(--font-h1) !important;
+  font-weight: 700 !important;
 }
 
 /* Body Text */
@@ -840,4 +855,9 @@ summary {
 
 .header__row {
   background-color: #dcd8d1 !important;
+}
+
+.collection-wrapper {
+  padding-left: .5em;
+  padding-right: .5em;
 }
