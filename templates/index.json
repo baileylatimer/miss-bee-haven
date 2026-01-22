@@ -13,8 +13,9 @@
         "desktop_video_source": "upload",
         "desktop_video": "shopify:\/\/files\/videos\/home-hero.mp4",
         "desktop_video_file_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0a1c3fb89ffd422abf5384e7c823c48a.mp4",
-        "mobile_media_type": "image",
+        "mobile_media_type": "video",
         "mobile_video_source": "upload",
+        "mobile_video": "shopify:\/\/files\/videos\/home-hero.mp4",
         "mobile_video_file_url": "",
         "show_gradient_overlay": true,
         "invert_colors": false
