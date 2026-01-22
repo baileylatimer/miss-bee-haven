@@ -269,6 +269,7 @@
                 },
                 "customize": {
                   "type": "customize",
+                  "disabled": true,
                   "static": true,
                   "settings": {},
                   "blocks": {}
@@ -297,12 +298,14 @@
             "custom_affirm_BNWddp": {
               "type": "custom-affirm",
               "name": "Custom Affirm",
+              "disabled": true,
               "settings": {},
               "blocks": {}
             },
             "custom_shipping_VEPTnW": {
               "type": "custom-shipping",
               "name": "Custom Shipping",
+              "disabled": true,
               "settings": {},
               "blocks": {}
             },
@@ -365,6 +368,7 @@
                 },
                 "accordion_row_Dn7GY7": {
                   "type": "_accordion-row",
+                  "disabled": true,
                   "settings": {
                     "heading": "Size and Weight",
                     "open_by_default": false
@@ -404,14 +408,14 @@
                   "type": "_accordion-row",
                   "name": "t:names.accordion_row",
                   "settings": {
-                    "heading": "Materials",
+                    "heading": "Ingredients",
                     "open_by_default": false
                   },
                   "blocks": {
                     "text_k7Dx8B": {
                       "type": "text",
                       "settings": {
-                        "text": "<p>We will work quickly to ship your order as soon as possible. Once your order has shipped, you will receive an email with further information. Delivery times vary depending on your location.<\/p>",
+                        "text": "<p>Enter ingredients here.<\/p>",
                         "width": "100%",
                         "max_width": "normal",
                         "alignment": "left",
@@ -477,6 +481,7 @@
                 },
                 "accordion_row_h3TgBX": {
                   "type": "_accordion-row",
+                  "disabled": true,
                   "settings": {
                     "heading": "Reviews",
                     "open_by_default": false

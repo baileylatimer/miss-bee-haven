@@ -1,27 +1,18 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "custom_hero_JhYe8h": {
       "type": "custom-hero",
       "name": "Custom Hero",
       "settings": {
-        "overline": "ALL NEW",
-        "headline": "PACE PRO Hybrid",
-        "description": "Bags designed for the modern professional",
+        "overline": "",
+        "headline": "Pure, raw, and unfiltered. Honey the way nature intended.",
+        "description": "",
         "button_label": "Shop now",
-        "button_url": "/collections/all",
+        "button_url": "\/collections\/all",
         "desktop_media_type": "video",
-        "desktop_image": "shopify://shop_images/acdf9afc-7306-4551-873f-60e1d8936f74.jpg",
-        "desktop_video_source": "file",
-        "desktop_video_file_url": "https://cdn.shopify.com/videos/c/o/v/0a1c3fb89ffd422abf5384e7c823c48a.mp4",
+        "desktop_video_source": "upload",
+        "desktop_video": "shopify:\/\/files\/videos\/home-hero.mp4",
+        "desktop_video_file_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0a1c3fb89ffd422abf5384e7c823c48a.mp4",
         "mobile_media_type": "image",
         "mobile_video_source": "upload",
         "mobile_video_file_url": "",
@@ -37,7 +28,7 @@
           "name": "t:names.button",
           "settings": {
             "label": "View all",
-            "link": "shopify://collections/all",
+            "link": "shopify:\/\/collections\/all",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "fit-content",
@@ -84,7 +75,7 @@
               "type": "_product-list-text",
               "name": "t:names.collection_title",
               "settings": {
-                "text": "<h3>Best Sellers</h3>",
+                "text": "<h3>Best Sellers<\/h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -287,10 +278,10 @@
       ],
       "name": "t:names.products_grid",
       "settings": {
-        "collection": "all",
+        "collection": "best-sellers",
         "layout_type": "grid",
         "carousel_on_mobile": true,
-        "max_products": 10,
+        "max_products": 4,
         "columns": 4,
         "mobile_columns": "2",
         "columns_gap": 4,
@@ -311,40 +302,27 @@
         "category_card_7mxfbx": {
           "type": "category_card",
           "settings": {
-            "headline": "A long lineage of organization and durability.",
-            "button_label": "Shop Vault",
-            "button_url": "/collections/all",
-            "background_image": "shopify://shop_images/cover--03.jpg",
+            "headline": "Raw, small-batch honey with a rich, golden finish—straight from the hive.",
+            "button_label": "Shop Honey",
+            "button_url": "\/collections\/all",
             "invert_colors": false
           }
         },
         "category_card_T7wkLn": {
           "type": "category_card",
           "settings": {
-            "headline": "The perfect blend of premium style and organization",
-            "button_label": "Shop Renegade",
-            "button_url": "/collections/all",
-            "background_image": "shopify://shop_images/cover--04.jpg",
+            "headline": "Clean, natural beeswax goods made to glow, protect, and last.",
+            "button_label": "Shop Beeswax",
+            "button_url": "\/collections\/all",
             "invert_colors": false
           }
         },
         "category_card_dcAh3J": {
           "type": "category_card",
           "settings": {
-            "headline": "The perfect blend of premium style and organization",
-            "button_label": "Shop Renegade DNA",
-            "button_url": "/collections/all",
-            "background_image": "shopify://shop_images/cover--02.jpg",
-            "invert_colors": false
-          }
-        },
-        "category_card_whmMdQ": {
-          "type": "category_card",
-          "settings": {
-            "headline": "A long lineage of organization and durability.",
-            "button_label": "Shop Rig ST",
-            "button_url": "/collections/all",
-            "background_image": "shopify://shop_images/cover--01.jpg",
+            "headline": "Everyday essentials with a laid-back fit and a built-to-wear feel.",
+            "button_label": "Shop Apparel",
+            "button_url": "\/collections\/all",
             "invert_colors": false
           }
         }
@@ -352,8 +330,7 @@
       "block_order": [
         "category_card_7mxfbx",
         "category_card_T7wkLn",
-        "category_card_dcAh3J",
-        "category_card_whmMdQ"
+        "category_card_dcAh3J"
       ],
       "name": "Custom Categories",
       "settings": {
