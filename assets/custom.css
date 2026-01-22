@@ -161,6 +161,8 @@ h1, .h1 {
   font-weight: 700 !important;
 }
 
+
+
 /* Body Text */
 body {
   font-family: var(--font-body);
@@ -343,6 +345,13 @@ h1, .h1 {
   line-height: var(--font-h1--line-height) !important;
   letter-spacing: var(--font-h1--letter-spacing) !important;
 }
+
+@media screen and (max-width: 749px) {
+  h1, .h1 {
+    font-size: 46px !important;
+  }
+}
+
 
 h2 {
   font-size: var(--font-h2--size) !important;
@@ -843,12 +852,12 @@ summary {
 @media screen and (width < 750px) {
   .header__columns .header-logo {
       grid-area: center;
-      transform: translate(110%, -22px);
+      transform: translate(90%, -22px);
       z-index: 99;
-      -webkit-transform: translate(110%, -22px);
-      -moz-transform: translate(110%, -22px);
-      -ms-transform: translate(110%, -22px);
-      -o-transform: translate(110%, -22px);
+      -webkit-transform: translate(90%, -22px);
+      -moz-transform: translate(90%, -22px);
+      -ms-transform: translate(90%, -22px);
+      -o-transform: translate(90%, -22px);
 }
 }
 
