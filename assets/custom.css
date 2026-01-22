@@ -838,6 +838,6 @@ summary {
 }
 
 
-.header__row, .header-notch, .header-notch__svg {
+.header__row {
   background-color: #dcd8d1 !important;
 }
