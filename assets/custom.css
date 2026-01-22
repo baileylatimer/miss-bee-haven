@@ -852,12 +852,13 @@ summary {
 @media screen and (width < 750px) {
   .header__columns .header-logo {
       grid-area: center;
-      transform: translate(90%, -22px);
+      transform: translate(0%, -22px);
+      width: 100vw;
       z-index: 99;
-      -webkit-transform: translate(90%, -22px);
-      -moz-transform: translate(90%, -22px);
-      -ms-transform: translate(90%, -22px);
-      -o-transform: translate(90%, -22px);
+      -webkit-transform: translate(0%, -22px);
+      -moz-transform: translate(0%, -22px);
+      -ms-transform: translate(0%, -22px);
+      -o-transform: translate(0%, -22px);
 }
 }
 
