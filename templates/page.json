@@ -78,7 +78,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "image": "shopify://shop_images/beekeeper.avif",
+            "image": "shopify://shop_images/IMG_0945.jpg",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
@@ -262,7 +262,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "image": "shopify://shop_images/beekeeper-2_c36f8be7-ad23-420a-9d30-5137f77e898f.jpg",
+            "image": "shopify://shop_images/RAW35560_4c865b99-401e-4c6a-8fa9-601a59facdc0.jpg",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
@@ -446,6 +446,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
+            "image": "shopify://shop_images/RAW35519.jpg",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
@@ -629,6 +630,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
+            "image": "shopify://shop_images/RAW35994.jpg",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
