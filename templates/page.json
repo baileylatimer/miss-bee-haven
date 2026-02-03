@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -8,7 +17,7 @@
           "name": "Title",
           "disabled": true,
           "settings": {
-            "text": "<h1>{{ closest.page.title }}<\/h1>",
+            "text": "<h1>{{ closest.page.title }}</h1>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "left",
@@ -69,7 +78,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "image": "shopify:\/\/shop_images\/beekeeper.avif",
+            "image": "shopify://shop_images/beekeeper.avif",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
@@ -92,7 +101,7 @@
               "name": "t:names.caption",
               "disabled": true,
               "settings": {
-                "text": "<p>Bestseller<\/p>",
+                "text": "<p>Bestseller</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -156,7 +165,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>Our story began in the 1960s with a young beekeeper learning from local farmers and building hives by hand. That tradition has been passed down through our family ever since—hands-on, small-batch, and always focused on quality.<\/h2>",
+                    "text": "<p>My father, Lewis Johnson, first began to learn about beekeeping in 1964 from his older brother, Rick, who was working for local beekeepers around their home town of Huntsville, UT. The two honey farmers he worked for were the Lewis Family and Peter Jensen, aﬀectionately referred to as “Honey Pete.” My father was 8 years old. His older brother Rick told him that he could have his honeybees when he joined the navy. These hives from his brother, many of which were hand-me-downs from Honey Pete, gave my father his start in beekeeping. Beekeeping has become a tradition in my family. It continues with my dad, has been passed on to my siblings and me, and will be something we will pass on to our own kids in the years to come.My father and his younger brother Tony kept bees all through their childhood and high school years. When dad joined the Navy in 1979, Tony was left to tend the bees.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -182,7 +191,7 @@
                   "type": "text",
                   "disabled": true,
                   "settings": {
-                    "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.<\/p>",
+                    "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.</p>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "left",
@@ -215,7 +224,7 @@
               "disabled": true,
               "settings": {
                 "label": "Shop now",
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "link",
                 "width": "fit-content",
@@ -253,7 +262,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "image": "shopify:\/\/shop_images\/beekeeper-2_c36f8be7-ad23-420a-9d30-5137f77e898f.jpg",
+            "image": "shopify://shop_images/beekeeper-2_c36f8be7-ad23-420a-9d30-5137f77e898f.jpg",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
@@ -276,7 +285,7 @@
               "name": "t:names.caption",
               "disabled": true,
               "settings": {
-                "text": "<p>Bestseller<\/p>",
+                "text": "<p>Bestseller</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -340,7 +349,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>From backyard harvests to a growing operation with better tools and more hives, the mission hasn’t changed: keep bees healthy and create the best honeybee products we can. Local, pure, and made with real care—Miss Bee Haven.<\/h2>",
+                    "text": "<p>After completing his enlistment in the US Navy in 1985, dad returned to beekeeping.In addition to their own hives, dad and his brother also assisted with the local Church sponsored apiary. President Barnes, a local Church leader, started the Church apiary in the early 1980s as the honey supplier for the Church’s welfare program. The honey was not sold, but instead was given to those who needed temporary food assistance. Dad and Uncle Tony continued working their small apiary and adding hives along way. They built their own boxes and frames from scrap alder pieces from Anderson Lumber, where dad worked before he started his 30-year career as a math teacher. Many of those boxes, and Honey Pete’s boxes, are still being used today, some are nearly 100 years old.In the early years, the honey harvesting took a lot of heartfelt down-home eﬀort. Frames were collected from our yard as soon as the sun came up. Then work commenced uncapping the frames by hand and spinning out the fresh honey in a homemade, two frame, hand crank extractor. The whole process was housed in a small shed in the back yard. Over the years, the operation was incrementally improved through trial and error.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -366,7 +375,7 @@
                   "type": "text",
                   "disabled": true,
                   "settings": {
-                    "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.<\/p>",
+                    "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.</p>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "left",
@@ -399,7 +408,7 @@
               "disabled": true,
               "settings": {
                 "label": "Shop now",
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "link",
                 "width": "fit-content",
@@ -428,12 +437,380 @@
         "padding-block-start": 0,
         "padding-block-end": 0
       }
+    },
+    "media_with_content_dEjei3": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "link": "",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 24
+          },
+          "blocks": {
+            "text_YqcVzX": {
+              "type": "text",
+              "name": "t:names.caption",
+              "disabled": true,
+              "settings": {
+                "text": "<p>Bestseller</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h6",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "group_pzab7C": {
+              "type": "group",
+              "settings": {
+                "link": "",
+                "open_in_new_tab": false,
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 12,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "inherit_color_scheme": true,
+                "color_scheme": "",
+                "background_media": "none",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_rgz9m9": {
+                  "type": "text",
+                  "name": "t:names.heading",
+                  "settings": {
+                    "text": "<p>I fondly remember these primitive days in that hot shed: bees flying everywhere, sticky floors, wax being melted and cleaned on one end, while honey was being put into bottles at the other. I remember family all around in that small space enjoying bottling the freshly harvested honey in re-used mason jars of all sizes, sampling the product as we worked.Early on, mom incorporated one of the beehives into her old-fashioned country flower garden, naming it “Bee Haven.” As a small girl, my older sister, Lani, would pull her little red wagon through the neighborhood with jars of honey for sale. On one of these trips mom, wishing her little girl luck, referred to Lani as “Miss Bee Haven,” and the name stuck.My younger sister, Maranda, says some of her favorite memories of our beekeeping, were watching dad and me check hives from the kitchen window. She recalls a lot of duct tape in those days, used to make patches on torn bee suits and to custom tailor a suit for my small size at the time.</p>",
+                    "width": "fit-content",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h3",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_6X6ctW": {
+                  "type": "text",
+                  "disabled": true,
+                  "settings": {
+                    "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.</p>",
+                    "width": "fit-content",
+                    "max_width": "narrow",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_rgz9m9",
+                "text_6X6ctW"
+              ]
+            },
+            "button_cynPmq": {
+              "type": "button",
+              "disabled": true,
+              "settings": {
+                "label": "Shop now",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "link",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_YqcVzX",
+            "group_pzab7C",
+            "button_cynPmq"
+          ]
+        }
+      },
+      "name": "t:names.editorial",
+      "settings": {
+        "media_position": "left",
+        "media_width": "medium",
+        "media_height": "60svh",
+        "section_width": "full-width",
+        "extend_media": true,
+        "color_scheme": "scheme-4",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
+    "media_with_content_iz9aqG": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "link": "",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 24
+          },
+          "blocks": {
+            "text_XGtFEt": {
+              "type": "text",
+              "name": "t:names.caption",
+              "disabled": true,
+              "settings": {
+                "text": "<p>Bestseller</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h6",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "group_nWhpcm": {
+              "type": "group",
+              "settings": {
+                "link": "",
+                "open_in_new_tab": false,
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 12,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "inherit_color_scheme": true,
+                "color_scheme": "",
+                "background_media": "none",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_radius": 0,
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_y7xRXq": {
+                  "type": "text",
+                  "name": "t:names.heading",
+                  "settings": {
+                    "text": "<p>We still have a few suits that need duct tape patches these days, but we are no longer using a hand-cranked extractor in the small shed out back. With many more hives, more suitable equipment to handle large volumes of product, and by teaming up with other local beekeepers, we have greatly increased our capabilities and services. We are still a family run and owned business, with over 70 years of beekeeping knowledge between my dad and myself. We love working hard to create the best honeybee products, healthy bees, and helping others do the same.Miss Bee Haven. Local. Pure. Our family tradition.</p>",
+                    "width": "fit-content",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h3",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_igDbiz": {
+                  "type": "text",
+                  "disabled": true,
+                  "settings": {
+                    "text": "<p>Made with care and unconditionally loved by our customers, this signature bestseller exceeds all expectations.</p>",
+                    "width": "fit-content",
+                    "max_width": "narrow",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_y7xRXq",
+                "text_igDbiz"
+              ]
+            },
+            "button_adbx9b": {
+              "type": "button",
+              "disabled": true,
+              "settings": {
+                "label": "Shop now",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "link",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_XGtFEt",
+            "group_nWhpcm",
+            "button_adbx9b"
+          ]
+        }
+      },
+      "name": "t:names.editorial",
+      "settings": {
+        "media_position": "right",
+        "media_width": "medium",
+        "media_height": "60svh",
+        "section_width": "full-width",
+        "extend_media": true,
+        "color_scheme": "scheme-4",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
     }
   },
   "order": [
     "main",
     "v2_feature_text_BLCMFz",
     "media_with_content_Yti7VK",
-    "media_with_content_YmjV9x"
+    "media_with_content_YmjV9x",
+    "media_with_content_dEjei3",
+    "media_with_content_iz9aqG"
   ]
 }
