@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "custom_hero_JhYe8h": {
@@ -8,14 +17,14 @@
         "headline": "Pure, raw, and unfiltered. Honey the way nature intended.",
         "description": "",
         "button_label": "Shop now",
-        "button_url": "\/collections\/all",
+        "button_url": "/collections/all",
         "desktop_media_type": "video",
         "desktop_video_source": "upload",
-        "desktop_video": "shopify:\/\/files\/videos\/home-hero.mp4",
-        "desktop_video_file_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0a1c3fb89ffd422abf5384e7c823c48a.mp4",
+        "desktop_video": "shopify://files/videos/home-hero.mp4",
+        "desktop_video_file_url": "https://cdn.shopify.com/videos/c/o/v/0a1c3fb89ffd422abf5384e7c823c48a.mp4",
         "mobile_media_type": "video",
         "mobile_video_source": "upload",
-        "mobile_video": "shopify:\/\/files\/videos\/home-hero.mp4",
+        "mobile_video": "shopify://files/videos/home-hero.mp4",
         "mobile_video_file_url": "",
         "show_gradient_overlay": true,
         "invert_colors": false
@@ -29,7 +38,7 @@
           "name": "t:names.button",
           "settings": {
             "label": "View all",
-            "link": "shopify:\/\/collections\/all",
+            "link": "shopify://collections/all",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "fit-content",
@@ -76,7 +85,7 @@
               "type": "_product-list-text",
               "name": "t:names.collection_title",
               "settings": {
-                "text": "<h3>Best Sellers<\/h3>",
+                "text": "<h3>Best Sellers</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -282,7 +291,7 @@
         "collection": "best-sellers",
         "layout_type": "grid",
         "carousel_on_mobile": true,
-        "max_products": 4,
+        "max_products": 8,
         "columns": 4,
         "mobile_columns": "2",
         "columns_gap": 4,
@@ -305,7 +314,7 @@
           "settings": {
             "headline": "Raw, small-batch honey with a rich, golden finish—straight from the hive.",
             "button_label": "Shop Honey",
-            "button_url": "shopify:\/\/collections\/honey",
+            "button_url": "shopify://collections/honey",
             "invert_colors": false
           }
         },
@@ -314,7 +323,7 @@
           "settings": {
             "headline": "Clean, natural beeswax goods made to glow, protect, and last.",
             "button_label": "Shop Beeswax",
-            "button_url": "shopify:\/\/collections\/beeswax",
+            "button_url": "shopify://collections/beeswax",
             "invert_colors": false
           }
         },
@@ -323,7 +332,7 @@
           "settings": {
             "headline": "Everyday essentials with a laid-back fit and a built-to-wear feel.",
             "button_label": "Shop Apparel",
-            "button_url": "shopify:\/\/collections\/apparel",
+            "button_url": "shopify://collections/apparel",
             "invert_colors": false
           }
         }
