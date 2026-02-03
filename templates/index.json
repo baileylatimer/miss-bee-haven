@@ -315,6 +315,7 @@
             "headline": "Raw, small-batch honey with a rich, golden finish—straight from the hive.",
             "button_label": "Shop Honey",
             "button_url": "shopify://collections/honey",
+            "background_image": "shopify://shop_images/20240122-3B4A3926_1.jpg",
             "invert_colors": false
           }
         },
@@ -324,6 +325,7 @@
             "headline": "Clean, natural beeswax goods made to glow, protect, and last.",
             "button_label": "Shop Beeswax",
             "button_url": "shopify://collections/beeswax",
+            "background_image": "shopify://shop_images/ChatGPT_Image_Jan_24_2026_03_11_25_PM.png",
             "invert_colors": false
           }
         },
@@ -333,6 +335,7 @@
             "headline": "Everyday essentials with a laid-back fit and a built-to-wear feel.",
             "button_label": "Shop Apparel",
             "button_url": "shopify://collections/apparel",
+            "background_image": "shopify://shop_images/RAW35337.jpg",
             "invert_colors": false
           }
         }
