@@ -812,6 +812,10 @@ header {
   display: flex !important;
 }
 
+.header-logo {
+  z-index: 999;
+}
+
 
 .menu-list__link-title {
   font-weight: 500;
