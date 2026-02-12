@@ -7,7 +7,7 @@
 
 
  :root {
-  --color-bg: #FFF8E8;
+  --color-bg: #f4e0b6;
   --color-contrast-high: #171717;
   --color-contrast-higher: #000;
   
@@ -869,6 +869,25 @@ summary {
 
 .header__row {
   background-color: #dcd8d1 !important;
+}
+
+/* =============================================
+ * DISABLE PRODUCT CARD IMAGE HOVER CAROUSEL
+ * ============================================= */
+/* Disable secondary image gallery on product cards */
+/* Hide all slides except the first one */
+.product-card .card-gallery slideshow-slide:not(:first-child) {
+  display: none !important;
+}
+
+/* Hide navigation arrows */
+.product-card .card-gallery slideshow-arrows {
+  display: none !important;
+}
+
+/* Prevent any hover-based image swapping effects */
+.product-card .card-gallery [variant-image]:not(:first-child) {
+  display: none !important;
 }
 
 .collection-wrapper {
